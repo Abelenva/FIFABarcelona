@@ -1,4 +1,3 @@
-```markdown
 # FIFA 21 Player Rating Prediction
 
 ## Introduction
@@ -35,4 +34,3 @@ This project is released under the [MIT License](LICENSE).
 
 ## Contact
 For any queries or collaborations, feel free to contact me at [abelenva@gmail.com].
-```
